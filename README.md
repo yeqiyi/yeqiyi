@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![L0BQcq.jpg](https://s1.ax1x.com/2022/04/19/L0BQcq.jpg)](https://imgtu.com/i/L0BQcq)
+![bio_image](https://s1.ax1x.com/2022/04/19/L0BQcq.jpg)
 
 [![steam](https://img.shields.io/badge/steam-gray?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/angelina0820/)   [![推特](https://img.shields.io/badge/twitter-blue?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Applepaiii0820)   [![博客](https://img.shields.io/badge/blog-甜甜圈の杂物间-orange?&style=for-the-badge)](https://nekoneko.best)
 
