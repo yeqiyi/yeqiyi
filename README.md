@@ -1,7 +1,7 @@
 # Hey,I'm Donut 👋   
 
 
-![bio_image](https://s1.ax1x.com/2022/04/19/L0BQcq.jpg)
+![bio_image](https://s1.ax1x.com/2022/04/23/LhVZX8.jpg)
  
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yeqiyi&layout=compact&hide=python" align = "left" >
