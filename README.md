@@ -1,6 +1,6 @@
 # Hey,I'm Donut 👋   
 
-![bio_image](https://raw.githubusercontent.com/yeqiyi/images/master/84285588_p0_master1200.jpg?token=AITVMDZ2767SO37IBZMDH6TDYEQPW)
+![bio_image](https://github.com/yeqiyi/images/blob/master/84285588_p0_master1200.jpg?raw=true)
  
 <img src = "https://count.getloli.com/get/@donut?theme=moebooru" alt="viewingcount" ><br>
 
